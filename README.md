@@ -13,6 +13,9 @@ I design and build modern, scalable digital products — from mobile apps to hig
   <a href="https://www.fiverr.com/nahidur_arnav">
     <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~017a5b803e33b4983e">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
   <a href="https://github.com/arnav-tek?tab=followers">
     <img src="https://img.shields.io/github/followers/arnav-tek?style=for-the-badge&color=0070f3&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
@@ -31,8 +34,7 @@ I design and build modern, scalable digital products — from mobile apps to hig
   <img src="https://cdn.simpleicons.org/webflow/4353FF" height="40" alt="Webflow logo" title="Webflow" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Framer logo" title="Framer" />
-  <img width="15" />
-  
+  <img width="15" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" title="React" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
@@ -41,7 +43,6 @@ I design and build modern, scalable digital products — from mobile apps to hig
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js logo" title="Three.js" />
   <img width="15" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" title="Firebase" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" title="Supabase" />
