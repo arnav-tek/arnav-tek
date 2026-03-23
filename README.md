@@ -26,7 +26,7 @@ I design and build modern, scalable digital products — from mobile apps to hig
 
 
 ---
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" title="Figma" />
